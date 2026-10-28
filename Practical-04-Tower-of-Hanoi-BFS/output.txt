@@ -1,0 +1,10 @@
+Enter Number of Disk: 3
+
+Solution:
+Move disk 1: Peg 1 -> Peg 3
+Move disk 2: Peg 1 -> Peg 2
+Move disk 1: Peg 3 -> Peg 2
+Move disk 3: Peg 1 -> Peg 3
+Move disk 1: Peg 2 -> Peg 1
+Move disk 2: Peg 2 -> Peg 3
+Move disk 1: Peg 1 -> Peg 3
