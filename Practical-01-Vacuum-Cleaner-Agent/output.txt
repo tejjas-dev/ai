@@ -1,0 +1,19 @@
+Position: A
+Room Status: Dirty
+Action: Suck
+Updated Room: {'A': 'Clean', 'B': 'Clean'}
+
+Position: A
+Room Status: Clean
+Action: Right
+Updated Room: {'A': 'Clean', 'B': 'Clean'}
+
+Position: B
+Room Status: Clean
+Action: Left
+Updated Room: {'A': 'Clean', 'B': 'Clean'}
+
+Position: A
+Room Status: Clean
+Action: Right
+Updated Room: {'A': 'Clean', 'B': 'Clean'}
