@@ -1,0 +1,25 @@
+==================================================
+         SIMPLE AI CHATBOT
+==================================================
+Type 'BYE' to exit the chatbot
+
+You: hello
+Bot: Hello! How can i help you?
+
+You: what is your name
+Bot: I am SimpleBot, a rule-based AI Chatbot.
+
+You: how are you
+Bot: I am fine, thanks for asking.
+
+You: what is AI
+Bot: Artificial Intelligence allows computers to perform tasks that normally require human intelligence.
+
+You: machine learning
+Bot: Machine Learning is a branch of AI where computers learn pattern from data.
+
+You: thank you
+Bot: No Problem.
+
+You: bye
+Bot: Good Bye!
